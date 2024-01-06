@@ -25,7 +25,7 @@ code {
 h1 {
   color: var(--text-main-color);
   font-family: "Rouge Script", cursive;
-  font-size: 130px;
+  font-size: 70px;
   font-weight: normal;
   line-height: 48px;
   margin: 0 0 50px;
@@ -87,10 +87,7 @@ p {
 .button:disabled {
   background-color: rgb(170, 164, 164);
 }
-/* .button.active {
-  border: 1px solid var(--text-main-color);
-  background-color: var(--text-main-color);
-} */
+
 @media only screen and (max-device-width: 1280px) {
   * {
     font-size: 0.9em;
